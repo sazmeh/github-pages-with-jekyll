@@ -1,5 +1,5 @@
 ---
-title:  "Web Developer"
+title: "Web Developer"
 date: 2021-10-04
 ---
 
