@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Web Developer"
+date: 2021-10-04
 ---
 
 #Sana Azmeh
