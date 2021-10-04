@@ -1,5 +1,5 @@
----
-title: "Welcome to my blog"
----
+Hello, 
 
-I'm glad you are here. I plan to talk about ...
+I'm Sana.
+
+I'm web designer and developer. I develop websites to be user friendly and fast. I have skills on WordPress, PHP, HTML5, CSS3, JavaScript, jQuery and MySQL.
